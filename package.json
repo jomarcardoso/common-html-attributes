@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc"
+  },
+  "dependencies": {
+    "@types/angular": "^1.8.4",
+    "@types/react": "^18.0.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
